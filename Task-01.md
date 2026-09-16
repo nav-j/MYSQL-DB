@@ -59,14 +59,3 @@ student_id | name       | age | course       | city       | fees
 2          | Simran     | 21  | Web Design   | Chandigarh | 15000
 ...
 ```
-
-### Bonus Practice ⭐
-
-After completing the above, try to:
-
-1. Display only students enrolled in **Python**.
-2. Display students whose fees are **greater than 10000**.
-3. Display students from **Ludhiana**.
-4. Add one more student to the table.
-
-**Goal:** By completing this task, you will practice `CREATE DATABASE`, `USE`, `CREATE TABLE`, `INSERT INTO`, and `SELECT` in MySQL.
