@@ -1,5 +1,3 @@
-Sure. Here is a **beginner-to-intermediate Python + MySQL practical task** focusing specifically on `INSERT`, `SELECT`, `WHERE`, and `ORDER BY`.
-
 ## Python + MySQL Practical Task
 
 ### Topic: Employee Management System
